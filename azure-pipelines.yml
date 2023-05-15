@@ -32,7 +32,7 @@ steps:
   displayName: Testing
   inputs:
     command: test
-    projects: '**/*Tests/*.csproj'
+    projects: '**/*Test/*.csproj'
     arguments: '--configuration $(buildConfiguration)'
 
 ## Run the Web API in the background
