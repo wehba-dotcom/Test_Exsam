@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\UniTest.csproj": {}
+    "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\XUnit_Test\\XUnit_Test.csproj": {}
   },
   "projects": {
     "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\Test_Exam.csproj": {
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\UniTest.csproj": {
+    "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\XUnit_Test\\XUnit_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\UniTest.csproj",
-        "projectName": "UniTest",
-        "projectPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\UniTest.csproj",
+        "projectUniqueName": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\XUnit_Test\\XUnit_Test.csproj",
+        "projectName": "XUnit_Test",
+        "projectPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\XUnit_Test\\XUnit_Test.csproj",
         "packagesPath": "C:\\Users\\WEHBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\obj\\",
+        "outputPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\XUnit_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WEHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,21 +102,25 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "MSTest.TestAdapter": {
-              "target": "Package",
-              "version": "[2.2.10, )"
-            },
-            "MSTest.TestFramework": {
-              "target": "Package",
-              "version": "[2.2.10, )"
-            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.5.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
             }
           },
           "imports": [

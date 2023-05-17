@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\Test_Exam\\Test_Exam\\Test_Exam.csproj",
+      "projectUniqueName": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\Test_Exam.csproj",
       "projectName": "Test_Exam",
-      "projectPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\Test_Exam\\Test_Exam\\Test_Exam.csproj",
+      "projectPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\Test_Exam.csproj",
       "packagesPath": "C:\\Users\\WEHBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\Test_Exam\\Test_Exam\\obj\\",
+      "outputPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WEHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
