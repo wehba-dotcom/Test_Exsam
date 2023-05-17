@@ -2322,19 +2322,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WEHBA\\.nuget\\packages\\": {}
+    "C:\\Users\\londo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\UniTest.csproj",
+      "projectUniqueName": "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\UniTest\\UniTest.csproj",
       "projectName": "UniTest",
-      "projectPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\UniTest.csproj",
-      "packagesPath": "C:\\Users\\WEHBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\UniTest\\obj\\",
+      "projectPath": "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\UniTest\\UniTest.csproj",
+      "packagesPath": "C:\\Users\\londo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\UniTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\WEHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\londo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2348,8 +2348,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\Test_Exam.csproj": {
-              "projectPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\Test_Exam.csproj"
+            "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\Test_Exam\\Test_Exam.csproj": {
+              "projectPath": "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\Test_Exam\\Test_Exam.csproj"
             }
           }
         }
@@ -2397,7 +2397,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

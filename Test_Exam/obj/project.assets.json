@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\WEHBA\\.nuget\\packages\\": {}
+    "C:\\Users\\londo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\Test_Exam.csproj",
+      "projectUniqueName": "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\Test_Exam\\Test_Exam.csproj",
       "projectName": "Test_Exam",
-      "projectPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\Test_Exam.csproj",
-      "packagesPath": "C:\\Users\\WEHBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WEHBA\\OneDrive\\Skrivebord\\ExamTest\\Test_Exsam\\Test_Exam\\obj\\",
+      "projectPath": "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\Test_Exam\\Test_Exam.csproj",
+      "packagesPath": "C:\\Users\\londo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\londo\\source\\repos\\wehba-dotcom\\Test_Exsam\\Test_Exam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\WEHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\londo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
